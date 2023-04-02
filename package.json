@@ -1,0 +1,24 @@
+{
+  "name": "react-winxp",
+  "version": "1.0.0",
+  "description": "WinXp based on react",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.1.1",
+    "react-use": "^7.0.1",
+    "styled-components": "^4.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "keywords": [
+    "react",
+    "winxp"
+  ],
+  "author": "Paul Kotov",
+  "license": "ISC"
+}
